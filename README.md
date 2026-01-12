@@ -394,6 +394,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Keybase](https://keybase.io/) — Keybase is a FOSS alternative to Slack; it keeps everyone's chats and files safe, from families to communities to companies.
   * [Linkinize](https://linkinize.com) — Bookmark manager for teams with tagging, multi-workspaces, and collaboration. Free plan includes 4 workspaces and 10 team members.
   * [Lockitbot](https://www.lockitbot.com/) — Reserve and lock shared resources within Slack like Rooms, Dev environments , servers etc. Free for upto 2 resources
+  * [Loxia.cc](https://loxia.cc) — Free online developer toolbox with 9+ tools: JSON/YAML formatter & validator, Base64 encoder/decoder, JWT decoder, IP lookup, timezone converter, INI/Nginx config formatter. Client-side processing, no registration required. Completely free.
   * [meet.jit.si](https://meet.jit.si/) — One-click video conversations, and screen sharing, for free
   * [Miro](https://miro.com/) - Scalable, secure, cross-device, and enterprise-ready collaboration whiteboard for distributed teams. With a freemium plan.
   * [Notion](https://www.notion.so/) - Notion is a note-taking and collaboration application with markdown support that integrates tasks, wikis, and databases. The company describes the app as an all-in-one workspace for note-taking, project management and task management. In addition to cross-platform apps, it can be accessed via most web browsers.
